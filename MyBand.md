@@ -13,4 +13,4 @@ Zorg ervoor dat de **public** map wordt ingesteld als de document root van je we
 
 
 ---
-We gaan tijdens de BAP lessen deze structuur langzaam vullen met de juiste code. 
+We gaan tijdens de BAP, FRO en PMW lessen deze structuur langzaam vullen met de juiste code. 
