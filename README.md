@@ -63,7 +63,9 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
-| Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
+| B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
-[Gebruikers documentatie]: <doc/fase-3/gebruikersdocuemntatie.md>
+[Gebruikers documentatie]: <doc/fase-3/gebruikersdocumentatie.md>
+[Gebruikers documentatie]: <doc/fase-3/evaluatie.md>
