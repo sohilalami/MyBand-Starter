@@ -68,4 +68,4 @@ Deze fase duurt 3 weken
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
 [Gebruikers documentatie]: <doc/fase-3/gebruikersdocumentatie.md>
-[Gebruikers documentatie]: <doc/fase-3/evaluatie.md>
+[Evaluatie]: <doc/fase-3/evaluatie.md>
