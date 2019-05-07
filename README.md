@@ -43,7 +43,7 @@ Deze fase duurt 3 weken
 [Design]: <doc/fase-1/design/design.md/>
 [FO]: </doc/fase-1/functioneel-ontwerp.md>
 [Flow]: <doc/fase-1/flow.svg>
-[Urenschatting]: <doc/fase-1/Urenschatting.md>
+[Urenschatting]: <doc/fase-1/urenschatting.md>
 [axShare]: <http://w2d1bw.axshare.com/>
 
 #### Fase 2: Realiseren van de opdracht (in sprints)
