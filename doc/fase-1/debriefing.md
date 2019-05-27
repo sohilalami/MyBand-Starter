@@ -1,4 +1,6 @@
 # Debriefing
+https://github.com/sohilalami/MyBand-Starter/blob/master/doc/fase-1/Debriefing.pdf
+
 
 Schrijf in dit document de debriefing voor jouw MyBand project
 
