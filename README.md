@@ -1,5 +1,5 @@
 ## Marvel News Page
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
+www.mijnliveomgeving.com is een website van Sohil Alami waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
