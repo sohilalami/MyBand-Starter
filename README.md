@@ -16,8 +16,8 @@ Search:
 http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/search.html
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. Mijn site is anders omdat hey meer gaat over informatie geven aan de bezoekers.
+ * tweede u.s.p. Mijn site gaat opvallen omdat het anders ontworpen is, en gaat ook heel erg opvallen omdat het gestructureerd gemaakt is
 
 ---
 #### Milestones 
@@ -76,7 +76,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/home.html                        |  TODO |  <https://mijnliveomgeving.com> |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
