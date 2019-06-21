@@ -1,6 +1,6 @@
 ## Marvel News Page
-www.mijnliveomgeving.com is een website van Sohil Alami waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.mijnliveomgeving.com is een website van Sohil Alami waar gebruikers kunnen nut gerbruiken van alle informatie die ze nodig hebben, bedoeld voor Marvel Fans.
+De website is enigszins te vergelijken met https://www.marvel.com/ of https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki maar toch anders omdat het andere functies heeft.
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
