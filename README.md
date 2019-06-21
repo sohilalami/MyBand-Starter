@@ -1,6 +1,19 @@
 ## Marvel News Page
-www.mijnliveomgeving.com is een website van Sohil Alami waar gebruikers kunnen nut gerbruiken van alle informatie die ze nodig hebben, bedoeld voor Marvel Fans.
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/home.html is een website van Sohil Alami waar gebruikers kunnen nut gerbruiken van alle informatie die ze nodig hebben, bedoeld voor Marvel Fans.
 De website is enigszins te vergelijken met https://www.marvel.com/ of https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki maar toch anders omdat het andere functies heeft.
+
+Home:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/home.html
+History:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/history.html
+Pictures:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/pictures.html
+Contact:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/contact.html
+Agenda:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/agenda.html
+Search:
+http://25810.hosts2.ma-cloud.nl//bewijzenmap/periode1.4/proj/codes/search.html
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
